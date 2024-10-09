@@ -1,0 +1,8 @@
+{
+    "name": "Minha Coleção NFT Incrível",
+    "description": "Uma coleção única de NFTs artísticos",
+    "image": "https://github.com/vanbarros76/meu-projeto-nft/tree/main",
+    "external_link": "https://www.instagram.com/p/DA6EPb0x0oL/",
+    "seller_fee_basis_points": 250,
+    "fee_recipient": "0x70997970C51812dc3A010C7d01b50e0d17dc79C8"
+  }

@@ -1,0 +1,11 @@
+ echo '{
+     "name": "Meu NFT #3",
+     "description": "Description of my NFT's Colletion",
+     "image": "https://www.instagram.com/p/DA6EPb0x0oL/",
+     "attributes": [
+       {
+         "trait_type": "Cor",
+         "value": "Azul"
+       }
+     ]
+   }' > metadata/3.json

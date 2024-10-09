@@ -1,0 +1,11 @@
+ echo '{
+     "name": "Meu NFT #4",
+     "description": "Descrição do meu primeiro NFT",
+     "image": "images/nft4.jpg",
+     "attributes": [
+       {
+         "trait_type": "Cor",
+         "value": "Azul"
+       }
+     ]
+   }' > metadata/4.json
